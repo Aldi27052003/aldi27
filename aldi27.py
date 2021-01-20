@@ -1,8 +1,8 @@
 #!/usr/bin/python
 # coding=utf-8
-# (xclowns) termuxID
-# Source : Python2 Gerak"
-# Wah Ada Kang Recode kek kont*l
+# (xclowns) Aldi soleman
+# Source : Python2 
+# komunitas cyber indonesia
 
 #Import module
 import os,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib
